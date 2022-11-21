@@ -23,3 +23,12 @@ Print a dataframe with the csv content.
 ```sh
 python3 runner.py
 ```
+
+## KPI FOR ANALYZE
+
+1. vacancy rate
+2. capitalization rate
+3. dividend yield
+4. liquidity ratio
+5. diversification strategy
+6. p/vp
