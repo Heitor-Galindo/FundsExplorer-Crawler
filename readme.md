@@ -11,7 +11,7 @@ Load data to `database/fii_table.csv` \
 ## Install instructions
 
 ``` sh
-python3 -m venv .env
+python3 -m venv .environment
 source .env/bin/activate
 pip install -r requirements.txt
 ```
@@ -32,3 +32,6 @@ python3 runner.py
 4. liquidity ratio
 5. diversification strategy
 6. p/vp
+
+https://fiis.com.br/resumo/
+https://fiis.com.br/anual/

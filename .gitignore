@@ -1,2 +1,5 @@
 __pycache__
-.env
+.environment
+database/*
+!database/fii_table.csv
+database_operations/volumes
